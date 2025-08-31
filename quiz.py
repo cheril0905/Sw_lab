@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # List of 10 questions and answers
 questions = [
     "What is the capital of France?",
-    "What is 5 + 7?",
+    "What is 5 + 7",
     "What is the boiling point of water in Celsius?",
     "Who wrote 'Hamlet'?",
     "What is the largest planet in our solar system?",
